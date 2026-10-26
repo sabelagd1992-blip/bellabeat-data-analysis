@@ -14,4 +14,4 @@ The dashboard summarizes the main findings related to:
 The dashboard was created using Google Sheets.
 ### Dashboard Files
 
-The dashboard documentation is available in the [`dashboard`](./dashboard) folder.
+[View Dashboard](./dashboard/)
