@@ -12,3 +12,6 @@ The dashboard summarizes the main findings related to:
 - Marketing recommendations for the Bellabeat App
 
 The dashboard was created using Google Sheets.
+### Dashboard Files
+
+The dashboard documentation is available in the [`dashboard`](./dashboard) folder.
