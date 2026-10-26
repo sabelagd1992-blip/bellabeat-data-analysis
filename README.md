@@ -131,3 +131,8 @@ The dashboard covers:
 The analysis shows that sedentary behavior is a significant pattern within the sample, despite many users maintaining relatively active step counts on some days.
 
 Bellabeat has an opportunity to position its app as a tool that not only tracks activity, but also encourages consistent movement, supports healthy routines, and connects activity with sleep insights.
+### Dashboard
+
+The dashboard documentation is available here:
+
+[View Dashboard Documentation](./dashboard/README.md)
