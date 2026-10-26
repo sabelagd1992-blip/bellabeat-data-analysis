@@ -14,4 +14,3 @@ The dashboard summarizes the main findings related to:
 The dashboard was created using Google Sheets.
 ### Dashboard Files
 
-[View Dashboard](./dashboard/)
